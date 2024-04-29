@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @AliAhmed-004
 - 👀 I’m interested in coding 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on nothing, YET
