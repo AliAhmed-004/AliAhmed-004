@@ -18,12 +18,12 @@
 ## 🔭 Current Projects
 - **ProgressPal** — A productivity app with streaks, calendar view, Pomodoro mode & offline goal tracking
 - **Personal Diary** — A Flutter diary app with backup/restore & custom themes
-- **DeepScan** — A Flutter tool for sharpening blurry CCTV frames using pure Dart
+- **Simple Filter Camera** — A Flutter tool for adding filters like sharpening and edge detection using pure Dart
 
 ---
 
 ## 📌 Looking For
-- 🤝 Internships or freelance projects where I can grow as a Flutter developer
+- 🤝 Internships or junior/mid-level job opportunities where I can grow as a Flutter developer
 - 🎯 Teams that care about thoughtful UI, performance, and impact
 
 ---
@@ -31,7 +31,7 @@
 ## 📫 Let's Connect
 - 📧 Email: [ali.the.ahmed18@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-the-ahmed/)
-- 💻 [Portfolio / Dev Blog](#) *(alitheahmed.framer.website)*
+- 💻 [Portfolio](#) *(alitheahmed.framer.website)*
 
 ---
 
