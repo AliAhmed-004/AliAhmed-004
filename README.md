@@ -31,7 +31,7 @@
 ## 📫 Let's Connect
 - 📧 Email: [ali.the.ahmed18@gmail.com]
 - 💼 [LinkedIn](https://www.linkedin.com/in/ali-the-ahmed/)
-- 💻 [Portfolio](#) *(alitheahmed.framer.website)*
+- 💻 [Portfolio](https://alitheahmed.framer.website)
 
 ---
 
