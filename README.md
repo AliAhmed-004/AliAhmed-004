@@ -18,7 +18,20 @@ class Developer {
   
   void currentlyExploring() => print("Flame Game Engine 🔥");
 }
+
 ```
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAhmed-004&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmed-004&layout=compact&theme=catppuccin_mocha"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAhmed-004&theme=catppuccin-mocha" alt="GitHub Streak" />
+</div>
+
+---
 
 ---
 
@@ -40,7 +53,7 @@ class Developer {
 
 ## 📱 Featured Projects
 
-### 🎯 [ProgressPal](https://play.google.com/store) 
+### 🎯 [ProgressPal](https://play.google.com/store/apps/details?id=com.spudbyte.progresspal) 
 > *Simple progress tracker with streaks*
 - **Streak Visualization**: Interactive weekly calendar
 - **Pomodoro Timer**: Built-in productivity booster
@@ -61,18 +74,7 @@ class Developer {
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAhmed-004&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmed-004&layout=compact&theme=catppuccin_mocha"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAhmed-004&theme=catppuccin-mocha" alt="GitHub Streak" />
-</div>
-
----
 
 ## 🎯 Current Focus
 
