@@ -1,38 +1,115 @@
-# 👋 Hi there, I'm Ali Ahmed!
+# Hi there, I'm Ali Ahmed 👋
 
-🎯 **Indie Flutter Developer** | 💡 Passionate about building clean, offline-first apps  
-📍 Based in Pakistan | 🧠 Always learning, always building
-
----
-
-## 🚀 What I Do
-- 🛠️ Building beautiful, efficient Flutter apps — with a focus on great UX & local-first experiences
-- 🌱 Currently sharpening my skills in:
-  - 📱 Mobile UI/UX
-  - 📦 Local databases (Hive, sqflite)
-  - ⏱️ State management & animations
-- 🧩 Exploring Dart-only image processing techniques for my university project, `DeepScan`
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F5C2E7&background=00000000&center=true&vCenter=true&width=435&lines=BSCS+Student+%7C+Flutter+Developer;Building+Offline-First+Apps;Daydreamer+%E2%86%92+Locked+In+%F0%9F%8E%AF" alt="Typing SVG" />
+</div>
 
 ---
 
-## 🔭 Current Projects
-- **ProgressPal** — A productivity app with streaks, calendar view, Pomodoro mode & offline goal tracking
-- **Personal Diary** — A Flutter diary app with backup/restore & custom themes
-- **Simple Filter Camera** — A Flutter tool for adding filters like sharpening and edge detection using pure Dart
+## 🚀 About Me
+
+```dart
+class Developer {
+  final String name = "Ali Ahmed";
+  final String role = "Flutter Developer & BSCS Student";
+  final List<String> passions = ["Offline-First Apps", "Mobile Development", "Game Development"];
+  
+  String get mindset => "I daydream for the whole day, but once I am locked in, I am LOCKED IN 🎯";
+  
+  void currentlyExploring() => print("Flame Game Engine 🔥");
+}
+```
 
 ---
 
-## 📌 Looking For
-- 🤝 Internships or junior/mid-level job opportunities where I can grow as a Flutter developer
-- 🎯 Teams that care about thoughtful UI, performance, and impact
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FF6B35?style=for-the-badge&logo=apache-hive&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-61DAFB?style=for-the-badge&logo=flutter&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+</div>
 
 ---
 
-## 📫 Let's Connect
-- 📧 Email: [ali.the.ahmed18@gmail.com]
-- 💼 [LinkedIn](https://www.linkedin.com/in/ali-the-ahmed/)
-- 💻 [Portfolio](https://alitheahmed.framer.website)
+## 📱 Featured Projects
+
+### 🎯 [ProgressPal](https://play.google.com/store) 
+> *Simple progress tracker with streaks*
+- **Streak Visualization**: Interactive weekly calendar
+- **Pomodoro Timer**: Built-in productivity booster
+- **Offline-First**: Works seamlessly without internet
+- **Published**: Available on Google Play Store
+
+### 📖 Personal Diary App
+> *Completely offline personal journaling*
+- **100% Offline**: No data leaves your device
+- **Backup & Restore**: Secure data management
+- **Privacy-Focused**: Your thoughts, your device
+
+### 🎮 Game Development Journey
+> *Currently exploring Flame engine*
+- Learning game development patterns
+- Planning Final Year Project with Flame
+- Combining Flutter expertise with game dev
 
 ---
 
-> “You don’t need permission to build. Just start.” — Ali Ahmed (and probably someone else too 😄)
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAhmed-004&show_icons=true&theme=catppuccin_mocha&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmed-004&layout=compact&theme=catppuccin_mocha"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliAhmed-004&theme=catppuccin-mocha" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```yaml
+learning:
+  - "Flame Game Engine"
+  - "Advanced Flutter Patterns"
+  - "Game Development Fundamentals"
+
+building:
+  - "FYP with Game Development"
+  - "Enhanced Offline-First Solutions"
+
+philosophy:
+  - "Offline-First Architecture"
+  - "User Privacy & Data Security"
+  - "Clean, Maintainable Code"
+```
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=AliAhmed-004&color=f5c2e7&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <i>💭 "Dreams fuel the vision, focus builds the reality" 💭</i>
+</div>
