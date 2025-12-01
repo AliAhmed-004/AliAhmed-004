@@ -60,7 +60,7 @@ class Developer {
 - **Offline-First**: Works seamlessly without internet
 - **Published**: Available on Google Play Store
 
-### 📖 Personal Diary App
+### 📖 Personal Diary App (Still in Closed testing...)
 > *Completely offline personal journaling*
 - **100% Offline**: No data leaves your device
 - **Backup & Restore**: Secure data management
@@ -83,10 +83,13 @@ learning:
   - "Flame Game Engine"
   - "Advanced Flutter Patterns"
   - "Game Development Fundamentals"
+  - "Integrating Firebase with Flutter"
 
 building:
-  - "FYP with Game Development"
+  - "FYP Project using Flutter and Firebase"
   - "Enhanced Offline-First Solutions"
+  - "Improving on existing apps and projects"
+  
 
 philosophy:
   - "Offline-First Architecture"
