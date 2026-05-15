@@ -62,6 +62,9 @@ Minimalist arcade survival game built with Flutter + Flame.
 - Lightweight arcade gameplay
 - Custom game logic using Flame Engine
 
+🔗 Google Play:  
+https://play.google.com/store/apps/details?id=com.spudbyte.one_bullet
+
 ---
 
 ## Current Focus
