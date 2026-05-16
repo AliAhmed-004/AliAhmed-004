@@ -130,18 +130,6 @@ Apparently the answer is usually “yes” because investors enjoy suffering.
 
 ---
 
-# GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAhmed-004&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmed-004&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
-
 # Connect
 
 📧 Email:  
