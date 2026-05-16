@@ -1,40 +1,75 @@
+<div align="center">
+
 # Ali Ahmed
 
-Flutter Developer focused on offline-first mobile apps, clean architecture, and practical user-focused experiences.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Offline-First+App+Builder;Game+Developer+with+Flame;Shipping+Projects+Instead+of+Collecting+Tutorials" />
 
-Currently exploring game development with Flame and scalable backend integrations with Supabase/Firebase.
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flame](https://img.shields.io/badge/Flame-000000?style=for-the-badge)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+
+</div>
 
 ---
 
-## Tech Stack
+## About Me
 
-**Mobile Development**
+Flutter developer focused on building practical, offline-first applications and lightweight game experiences.
+
+I enjoy creating software that:
+- works reliably without internet dependency
+- stays maintainable as it grows
+- feels fast and clean to use
+- actually gets shipped instead of living forever in Figma prison
+
+Currently exploring:
+- Flame Engine game development
+- scalable backend integrations
+- Flutter architecture patterns
+- Supabase & Firebase ecosystems
+
+---
+
+# Tech Stack
+
+## Mobile Development
 - Flutter
 - Dart
 - Flame Engine
 
-**State Management & Storage**
+## State Management & Storage
 - Provider
 - Hive
 - SQLite
 
-**Tools**
-- Git
-- Neovim
+## Backend & Services
 - Firebase
 - Supabase
 
+## Tools & Workflow
+- Git
+- GitHub
+- Neovim
+- Linux
+
 ---
 
-## Featured Projects
+# Featured Projects
 
-### ProgressPal
-Simple progress tracking app built with Flutter.
+## 📈 ProgressPal
 
-**Highlights**
+Offline-first productivity and progress tracking app built with Flutter.
+
+### Highlights
 - Streak tracking with calendar visualization
 - Built-in Pomodoro timer
 - Offline-first architecture
+- Clean and minimal UI
 - Published on Google Play
 
 🔗 Google Play:  
@@ -42,50 +77,85 @@ https://play.google.com/store/apps/details?id=com.spudbyte.progresspal
 
 ---
 
-### Personal Diary
+## 📔 Personal Diary
+
 Privacy-focused journaling application designed for complete offline usage.
 
-**Highlights**
+### Highlights
 - Fully offline data storage
 - Backup & restore support
-- Privacy-first architecture
-- Clean and minimal UI
+- Privacy-first design
+- Simple and distraction-free experience
 
 ---
 
-### One Bullet
+## 🎮 One Bullet
+
 Minimalist arcade survival game built with Flutter + Flame.
 
-**Highlights**
+### Highlights
 - Single persistent ricocheting bullet mechanic
 - Increasing difficulty over time
 - Lightweight arcade gameplay
-- Custom game logic using Flame Engine
+- Custom game systems built using Flame Engine
 
 🔗 Google Play:  
 https://play.google.com/store/apps/details?id=com.spudbyte.one_bullet
 
 ---
 
-## Current Focus
+# Current Focus
 
 - Advanced Flutter architecture
-- Offline-first application design
 - Game development with Flame
-- Backend integration using Firebase & Supabase
+- Offline-first software design
+- Real-world backend integration
+- Building polished and complete products
 
 ---
 
-## Philosophy
+# Developer Philosophy
 
-- Build practical software
-- Keep apps fast and maintainable
-- Respect user privacy
-- Ship projects instead of endlessly planning them
+```txt
+Build practical software.
+Keep apps lightweight.
+Respect user privacy.
+Prefer maintainable systems over trendy complexity.
+Ship projects instead of endlessly redesigning them.
+```
+
+A surprising amount of modern software could improve by simply asking:
+“Does this really need to be online 24/7?”
+Apparently the answer is usually “yes” because investors enjoy suffering.
 
 ---
 
-## Connect
+# GitHub Stats
 
-- LinkedIn: https://www.linkedin.com/in/ali-the-ahmed/
-- Email: ali.the.ahmed18@gmail.com
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AliAhmed-004&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAhmed-004&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Connect
+
+📧 Email:  
+ali.the.ahmed18@gmail.com
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/ali-the-ahmed/
+
+---
+
+<div align="center">
+
+### Thanks for visiting the profile.
+
+Currently building apps, games, and occasionally fighting Flutter layout constraints at 2 AM.
+
+</div>
